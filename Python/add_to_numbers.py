@@ -17,3 +17,6 @@ class Solution:
         return nextNode
             
         
+"""Runtime: 68 ms, faster than 75.64% of Python3 online submissions for Add Two Numbers.
+Memory Usage: 14.4 MB, less than 13.29% of Python3 online submissions for Add Two Numbers.
+Next challenges:"""
